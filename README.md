@@ -12,7 +12,7 @@ The system includes:
 - Safety system (flame sensor + buzzer)
 - Power distribution using switches (no microcontrollers)
 
-📎 Full report: [fileciteturn0file0](https://github.com/IbrahimCustovic/restaurant-electrics/blob/main/Restaurant%20Electrics%20ENS203.pdf)
+📎 Full report: here(https://github.com/IbrahimCustovic/restaurant-electrics/blob/main/Restaurant%20Electrics%20ENS203.pdf)
 
 ---
 
