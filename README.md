@@ -1,10 +1,10 @@
 # Restaurant Electrics – ENS203 Project
 
-This repository contains a project developed for the **Electrical Circuits I (ENS203)** course at the International University of Sarajevo.
+This repository contains a project developed for the Electrical Circuits I (ENS203) course at the International University of Sarajevo.
 
-## 📄 Project Overview
+## Project Overview
 
-The project demonstrates a **scaled physical model of a restaurant electrical system**, focusing on real-life principles of electrical distribution, safety, and functionality.
+The project demonstrates a scaled physical model of a restaurant electrical system, focusing on real-life principles of electrical distribution, safety, and functionality.
 
 The system includes:
 - Lighting (LED-based zones: kitchen, hall, exterior)
@@ -12,11 +12,9 @@ The system includes:
 - Safety system (flame sensor + buzzer)
 - Power distribution using switches (no microcontrollers)
 
-📎 Full report: https://github.com/IbrahimCustovic/restaurant-electrics/blob/main/Restaurant%20Electrics%20ENS203.pdf
+Full report: https://github.com/IbrahimCustovic/restaurant-electrics/blob/main/Restaurant%20Electrics%20ENS203.pdf
 
----
-
-## ⚙️ Key Concepts
+## Key Concepts
 
 - Parallel circuit design for independent control
 - Use of resistors (220Ω) for LED protection
@@ -24,9 +22,7 @@ The system includes:
 - Separation of power sources (5V power bank + 3V batteries)
 - Basic simulation of real-world electrical infrastructure
 
----
-
-## 🧱 Components Used
+## Components Used
 
 - LEDs (multiple colors)
 - Resistors (220Ω)
@@ -39,9 +35,7 @@ The system includes:
 - Jumper wires
 - Mini breadboard
 
----
-
-## 🏗️ Development Process
+## Development Process
 
 1. Designing and building the physical structure (XPS material)
 2. Creating LED and motor subcircuits
@@ -49,9 +43,7 @@ The system includes:
 4. Integrating safety components (sensor + buzzer)
 5. Final assembly and testing
 
----
-
-## ⚡ Real-World Relevance
+## Real-World Relevance
 
 The project connects theory with real applications such as:
 - Restaurant power distribution systems
@@ -59,22 +51,16 @@ The project connects theory with real applications such as:
 - Electrical safety (RCDs, grounding, protection)
 - Load management and circuit sizing
 
----
-
-## ⚠️ Lessons Learned
+## Lessons Learned
 
 - Soldering is more reliable than hot glue connections
 - Power sources must match current requirements
 - Proper planning significantly improves system quality
 
----
-
-## 👤 Author
+## Author
 
 Ibrahim Čustović
 
----
+## Note
 
-## 📌 Note
-
-This project is a **basic prototype** intended for educational purposes, demonstrating how electrical systems function in real environments like restaurants.
+This project is a basic prototype intended for educational purposes, demonstrating how electrical systems function in real environments like restaurants.
